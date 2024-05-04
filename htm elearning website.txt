@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="#" class="logo">Logo</a>
+      <nav>
+        <ul>
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">ABOUT US</a></li>
+          <li><a href="#">COURSES</a></li>
+          <li><a href="#">CONTACT US</a></li>
+          <li><a href="#">Login</a></li>
+          <li><a href="#">Sign up</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1>Start Learning From The World's Best Platform</h1>
+        <p>Explore a wide range of courses taught by industry experts.</p>
+        <a href="#" class="btn">Explore Courses</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Digital Academy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="#" class="logo">The Digital Academy</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="course-banner">
+      <div class="container">
+        <h2>Discover our Trending Courses Designed for Working Professionals like you</h2>
+      </div>
+    </section>
+<section class="course-boxes">
+      <div class="container">
+        <div class="course-box">
+          <h3>Programming with Python</h3>
+          <p>6 weeks</p>
+          <span>4,173,600 Enrolled</span>
+          <a href="#" class="btn">Know More</a>
+        </div>
+        <div class="course-box">
+          <h3>Digital Marketing</h3>
+          <p>8 weeks</p>
+          <span>4.156,913 Enrolled</span>
+          <a href="#" class="btn">Know More</a>
+        </div>
+        <div class="course-box">
+          <h3>Advanced Excel</h3>
+          <p>4 weeks</p>
+          <span>4.430,442 Enrolled</span>
+          <a href="#" class="btn">Know More</a>
+        </div>
+        <div class="course-box">
+          <h3>Programming with C and C++</h3>
+          <p>8 weeks</p>
+          <span>4.228,541 Enrolled</span>
+          <a href="#" class="btn">Know More</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta">
+      <div class="container">
+        <p>Unlock your potential with The Digital Academy's E-learning Trending Courses.</p>
+        <a href="#" class="btn">View all Courses →</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 The Digital Academy. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Digital Academy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="#" class="logo">The Digital Academy</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="about-us">
+      <div class="container">
+        <h2>About Us</h2>
+        <p>At The Digital Academy, we are dedicated to revolutionizing education by providing accessible and engaging learning experiences for all.  We are a e-learning company on a mission to create a world where you can discover your passion and turn it into your career. A world where you graduate fully assured, confident, and prepared to stake a claim on your place in the world.</p>
+      </div>
+    </section>
+
+    <section class="mission">
+      <div class="container">
+        <h2>Our Mission</h2>
+        <p>The Digital Academy's mission is to provide a world-class education to anyone, anywhere. We believe that everyone has the potential to learn and grow, and we are committed to making that potential a reality. Our courses are designed to be accessible, engaging, and effective, and we offer a variety of learning formats to fit your needs.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 The Digital Academy. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How We Stand Out</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="#" class="logo">Your Company Name</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="support">
+      <div class="container">
+        <h2>How We Stand Out</h2>
+        <div class="support-boxes">
+          <div class="support-box">
+            <h3>Weekly Online Mentorship by Experts</h3>
+            <p>Get personalized guidance and support from industry experts through our weekly online mentorship sessions.</p>
+          </div>
+          <div class="support-box">
+            <h3>Flexible Timing, Learn Anytime Anywhere</h3>
+            <p>Our flexible learning format allows you to learn at your own pace and convenience, anytime and anywhere.</p>
+          </div>
+          <div class="support-box">
+            <h3>Dedicated Program Support</h3>
+            <p>Get dedicated program support from our team to help you with any queries you may have throughout your learning journey.</p>
+          </div>
+          <div class="support-box">
+            <h3>Network with People of Similar Interest</h3>
+            <p>Connect and network with a community of like-minded individuals who share your passion for learning and growth.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta">
+      <div class="container">
+        <p>Ready to get started? Enroll in our program today!</p>
+        <a href="#" class="btn">Enroll Now</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Your Company Name. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Digital Academy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="#" class="logo">The Digital Academy</a>
+      <nav>
+        <ul>
+          <li><a href="#">Instructors</a></li>
+          <li><a href="#">Courses</a></li>
+          <li><a href="#">Learners</a></li>
+          <li><a href="#">Enrollments</a></li>
+          <li><a href="#">Languages</a></li>
+          <li><a href="#">Enterprises</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="stats-banner">
+      <div class="container">
+        <h2>By the Numbers</h2>
+      </div>
+    </section>
+    
+    <section class="stats">
+      <div class="container">
+        <div class="stat-box">
+          <h3><span class="counter">75,000+</span> Instructors</h3>
+        </div>
+        <div class="stat-box">
+          <h3><span class="counter">210,000+</span> Courses</h3>
+        </div>
+        <div class="stat-box">
+          <h3><span class="counter">69,000,000+</span> Learners</h3>
+        </div>
+        <div class="stat-box">
+          <h3><span class="counter">940,000,000+</span> Course Enrollments</h3>
+        </div>
+        <div class="stat-box">
+          <h3><span class="counter">75</span> Languages</h3>
+        </div>
+        <div class="stat-box">
+          <h3><span class="counter">15,700+</span> Enterprise Customers</h3>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 The Digital Academy. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Top Recruiters</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="#" class="logo">Deloitte.</a>
+    </div>
+  </header>
+ <main>
+    <section class="hero">
+      <div class="container">
+        <h1>Our Top Recruiters</h1>
+        <p>Hire future-ready professionals with in-demand skills from our global network of learners</p>
+        <a href="#" class="btn">Learn More</a>
+      </div>
+    </section>
+
+    <section class="logos">
+      <div class="container">
+        <div class="logo-grid">
+          <img src="images/facebook.png" alt="Facebook Logo">
+          <img src="images/amazon.png" alt="Amazon Logo">
+          <img src="images/infosys.png" alt="Infosys Logo">
+          <img src="images/himalaya.png" alt="Himalaya Logo">
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>SINCE 1930</p>
+    </div>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Success Stories</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="#" class="logo">The Digital Academy</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1>Success Stories</h1>
+        <p>Creating impact around the world</p>
+      </div>
+    </section>
+    
+    <section class="testimonials">
+      <div class="container">
+        <div class="testimonial">
+          <img src="images/khushi_mishra.jpg" alt="Khushi Mishra">
+          <h3>Khushi Mishra</h3>
+          <h4>UUUX Designer</h4>
+          <p>Transitioning to a new career can be daunting, but this e-learning website made it smoother. The coreer-focused courses, industry insights, and job search resources were invaluable. I landed a job in my dream field, and I owe a big part of that success to this platform.</p>
+          <p><img src="images/quote.svg" alt="Quote"></p>
+        </div>
+        <div class="testimonial">
+          <img src="images/avinash_saxena.jpg" alt="Avinash Saxena">
+          <h3>Avinash Saxena</h3>
+          <h4>EcomMatrix</h4>
+          <p>I needed extra help with my physics course in college, and this e-learning website was a game changer. The video lectures were clear, the practice problems were challenging yet manageable, and the instant feedback helped me improve. I aced my exams, all thanks to this platform.</p>
+          <p><img src="images/quote.svg" alt="Quote"></p>
+        </div>
+      </div>
+    </section>
+    
+    <section class="cta">
+      <div class="container">
+        <p>Start your journey today and unlock your full potential!</p>
+        <a href="#" class="btn">Explore Courses</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 The Digital Academy. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="#" class="logo">The Digital Academy</a>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Courses</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1>Contact Us</h1>
+        <p>Got questions? We're here to help!</p>
+      </div>
+    </section>
+    
+    <section class="contact-info">
+      <div class="container">
+        <div class="contact-box">
+          <h3><i class="fas fa-map-marker-alt"></i> Address</h3>
+          <p>146, Someshwara Layout, near Diabu Diamond Tools, Bommasandra Village, Bengaluru, Karnataka 560099</p>
+        </div>
+        <div class="contact-box">
+          <h3><i class="fas fa-envelope"></i> Email</h3>
+          <p><a href="mailto:youremail@yourdomain.com">youremail@yourdomain.com</a></p>
+        </div>
+        <div class="contact-box">
+          <h3><i class="fas fa-phone"></i> Phone Number</h3>
+          <p><a href="tel:+918888888888">+91 88888 88888</a></p>
+        </div>
+      </div>
+    </section>
+    
+    <section class="form">
+      <div class="container">
+        <h2>Get In Touch</h2>
+        <form action="#">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" required></textarea>
+          </div>
+          <button type="submit" class="btn">Send Message</button>
+        </form>
+      </div>
+    </section>
+  </main>
+<footer>
+    <div class="container">
+      <p>&copy; 2024 The Digital Academy. All Rights Reserved.</p>
+      <div class="social-media">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
+
+
+ 
